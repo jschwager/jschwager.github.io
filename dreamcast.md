@@ -16,9 +16,9 @@ Explore my open-source projects and hardware kits dedicated to the Sega Dreamcas
 - **[DCnow Discord](https://github.com/jschwager/dcnow-discord)**
   A Discord bot and integration for [Dreamcast Now](https://dreamcast.online/now/), helping Dreamcast players stay connected, get live updates, and coordinate online sessions via Discord.
 
-## Hardware Kits
+## DreamPi Hardware Kits/Parts
 
-- **[DreamPi Kits on eBay](https://www.ebay.com/itm/187799074199)**  
-  Fully assembled DreamPi kits ready for Dreamcast online play. Includes Raspberry Pi, USB modem, line voltage inducer and tested components.
+- **[DreamPi Kits/Parts on eBay](https://www.ebay.com/usr/onlycodered)**  
+  Fully assembled DreamPi kits and modified USB 56k modems ready for Dreamcast online play. Kits include Raspberry Pi, USB modem (w/ built-in LVI), and tested components. Modified USB modems include a built-in LVI for easy plug-and-play operation.
 
 These projects stem from hands-on repair work with Dreamcast, Saturn, and Genesis systems. Check the GitHub repos for installation guides, issues, and contributions.
