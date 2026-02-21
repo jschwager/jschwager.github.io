@@ -11,7 +11,7 @@ Explore my open-source projects and hardware kits dedicated to the Sega Dreamcas
 ## Software Projects
 
 - **[DreamPi Troubleshooter](https://github.com/jschwager/dpi-troubleshooter)**
-  A script for your DreamPi that diagnoses and resolves common issues with new or existing setups. Download and run it on your Raspberry Pi to get back online quickly. Latest release: v1.2 (Jan 11, 2026).
+  A script for your DreamPi that diagnoses and resolves common issues with new or existing setups. Download and run it on your Raspberry Pi to get back online quickly.
 
 - **[DCnow Discord](https://github.com/jschwager/dcnow-discord)**
   A Discord bot and integration for [Dreamcast Now](https://dreamcast.online/now/), helping Dreamcast players stay connected, get live updates, and coordinate online sessions via Discord.
